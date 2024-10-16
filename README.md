@@ -1,0 +1,1 @@
+askmystay_frontend update html and css part in style.css only !
